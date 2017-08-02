@@ -19,7 +19,7 @@ new AjaxInterceptor(triggers);
 response | response callback function,get response header and body
 request | callback for http request(post data, and response data) 
 dataType | response data type you like(json(default)/text)
-cancle |  do not look up below in the trigger list (default:false)
+cancel | stop propagation for below triggers in the list (default:false)
 
 
 **Examples:**
