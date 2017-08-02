@@ -16,7 +16,7 @@ new AjaxInterceptor(triggers);
  keyword | keywords in request url
 response | response callback function,get response header and body
 request | callback for http request(post data, and response data) 
-dataType | response data type you like
+dataType | response data type you like(json(default)/text)
 cancle |  do not look up below in the trigger list (default:false)
 
 
