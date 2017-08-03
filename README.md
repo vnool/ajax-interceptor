@@ -1,5 +1,5 @@
 # ajax-interceptor
-ajax-interceptor (replace the default ajax and handle the HTTP request/response )
+intercept all the ajax request and handle the HTTP request/response
 
 **install**
 ```
